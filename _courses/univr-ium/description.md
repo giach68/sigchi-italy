@@ -14,70 +14,86 @@ course-website: https://elearning.univr.it/j/index.php?option=com_wrapper&Itemid
 course-participants: 15
 course-optional: 
 cfu: 6
-hours: 55
-hours-lectures: 40
-hours-lab: 15
+hours: 48
+hours-lectures: 24
+hours-lab: 24
 teacher: Andrea Giachetti
 topics: 
-  Accessibility: no 
+  Accessibility: yes 
   Activity_design: no 
-  Cognitive_Aspects: no 
+  Cognitive_Aspects: yes
   Cognitive_walkthrough: no 
-  Ergonomics: no 
-  Evaluation_metrics: no 
-  HCI_Design_Patterns: no 
-  HCI_history: no 
+  Ergonomics: nyes 
+  Evaluation_metrics: yes 
+  HCI_Design_Patterns: yes 
+  HCI_history: yes 
   Human-AI_Interaction: no 
   Information_Design: no 
   Information_Visualization: no 
-  Interaction_Design: no 
-  Interaction_models_and_frameworks: no 
-  Interaction_paradigms: no 
+  Interaction_Design: yes 
+  Interaction_models_and_frameworks: yes 
+  Interaction_paradigms: yes 
   Interaction_styles: no 
   Interviews_and_Surveys: no 
   Knowledge_Visualization: no 
   Multimodal_Interfaces: no 
-  Personas: no 
-  Prototyping: no 
-  Requirement_Analysis: no 
+  Personas: yes 
+  Prototyping: yes 
+  Requirement_Analysis:yes 
   Software_lifecycle: no 
-  Usability_Engineering: no 
-  Usability_Evaluation: no 
-  Usability_principles: no 
-  User-centered_design: no 
+  Usability_Engineering: yes 
+  Usability_Evaluation: yes 
+  Usability_principles:   
+  User-centered_design: yes
   User_Interfaces_for_the_Internet_of_Things: no 
-  User_Testing: no 
-  Virtual_and_Augmented_Reality: no 
+  User_Testing: yes 
+  Virtual_and_Augmented_Reality: yes
 learning-verification: 
-  Homework: no 
-  Group-project: no 
+  Homework: yes 
+  Group-project: yes 
   Multiple-choice-questions: no 
-  Individual-project: no 
-  Oral-examination: no 
+  Individual-project: yes
+  Oral-examination: yes 
   Open-ended-questions: no 
 ---
 
 
 ## Syllabus 
 Contenuti:
--­‐ L'uomo. Fisiologia, percezione, modelli di memoria e ragionamento, emozione
--­‐ Il calcolatore ed i suoi dispositivi di I/O. Dispositivi, tipi di interfacce
--­‐ Paradigmi per l'interazione. Interattività, Sistemi a finestre, WIMP, manipolazione diretta. Linguaggi testuali e visuali, ipertesti, multimodalità, Informatica pervasiva, sensori ambientali
--­‐ Design. Le basi del progetto dell'interazione Interazione uomo-macchina nel processo software. Regole di design.
--­‐ Valutazione. Valutazione mediante analisi di esperti, test con utenti, metodi
--­‐ Sistemi interattivi ed applicazioni. Sistemi di supporto al lavoro di gruppo, informatica pervasiva, dispositivi mobili, visualizzazione scientifca,
-realtà virtuale.
--­‐ Laboratorio/esercitazioni: Valutazione di siti web e sistemi d’interazione moderni, sviluppo di interfacce con librerie QT.
+Nozioni di base sull'HCI e sull'interaction design
+- Usabilità, User Experience, Fattori umani
+- Fisiologia, percezione, memoria e modelli di ragionamento, emozione,
+psicologia delle decisioni
+- Modellazione delle interazioni
+- Tipi/esempi di interfaccia
+- Usabilità web e mobile
+
+interazione avanzata in Realtà Virtuale e Aumentata
+- Fattori umani per VR/AR
+- Dispositivi VR/AR
+- Tracciamento
+- Calibrazione AR e coerenza visiva
+- Interfacce utente 3D e attività
+- Navigazione, manipolazione, controllo del sistema
+- Riconoscimento dei gesti e interazione gestuale
+
+Prototipazione di applicazioni interattive con Unity
+- Introduzione alla prototipazione
+- Introduzione alla valutazione dell'usabilità
+- Tutorial Unity
+- Come eseguire uno studio sugli utenti
+- Proposta di progetto
+- Sviluppo del progetto 
+
 
 ## Materiale di insegnamento 
 slides del corso, materiale online
-alcune  parti su Dix et al.
+
 
 ## Esame finale 
 Domande a risposta aperta;Progetto di gruppo
 
 ## Strumenti di sviluppo 
-QT
+Unity
 
 ## Altre informazioni 
-il corso sarà variato nel 2015/16
